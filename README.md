@@ -36,9 +36,9 @@ after that, you need to input the amount of salt. (it'll instantly show the deco
 
 So, I added 2 salt in my string. so Originally, the string 'Hello World' only has 11 character but, we're adding salt in it, we also need something to tell our encoder that our string has 2 salts which is by having !(amount of salt)! in our string. (It's automatically added in the result)
 
-now we have (original character amount) + 3 (reminder) + 2 since I added 2 salts, it will have 16 (11+3+2) character, which made it look like an even longer string. even though it's not. and the best part of adding salt is, you can add as much salt in you string as you want.
+now we have (original character amount) + 3 (reminder) + 2 since I added 2 salts, it will have 16 (11+3+2) character, which made it look like an even longer string. even though it's not. and the best part of adding salt is, you can add as much salt as you want in your string.
 
-if you typed Y to random salt mode, it'll add random salt amount ranging from 1 to 25 characters. so, your string may look even longer than you originally input.
+if you typed Y to random salt mode, It'll automatically add random salt amount ranging from 1 to 25 characters. so, your string may look even longer than you originally input.
 
 And the best part is, if you decode that string, the salt will instantly be gone and you'll recieve your original string you've encoded.
 

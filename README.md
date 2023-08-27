@@ -11,8 +11,11 @@ or, you can go to the non-IDE route by renaming the python file to Custom string
 ![top of the code](https://github.com/armygogames/Custom-string-Encoder.py/assets/141536305/26398455-dd00-474d-b1c7-7cb736818fa5)
 
 now, you can insert anything in format of "a":"b" you can change those character to anything you'd like maybe symbols or anything I haven't added. (or delete everything and configure it yourself)
+
 SUPER IMPORTANT! you must add , in the end of "a":"b" ("a":"b","c":"d","e":"f",on and on)
+
 THIS IS ALSO SUPER IMPORTANT! you CAN'T add the symbol "!" to the encoder since it's used in the code to add salts. if added, will break the code.
+
 now, rename the file back to Custom string Encoder.py then open it if you aren't using an IDE
 
 USAGE:

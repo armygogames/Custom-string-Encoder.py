@@ -24,9 +24,12 @@ after you open the code, you will be greeted by an input to put between yes or n
 
 ![Input Salting Mode](https://github.com/armygogames/Custom-string-Encoder.py/assets/141536305/c3aba9d3-3abd-455c-b0d0-300d7bfb5921)
 
-In this case, I'll type N for no, and manually add amount of salts myself.
+In this case, I'll type N for no, and manually type in the amount of salts myself.
+
 after that, type Encode if you want to Encode or type Decode if you want to Decode followed by a space and type in any word you want to Encode or Decode.
-in this case, I want to Encode 'Hello World' so, I'll type Encode Hello World
+
+in this case, I want to Encode 'Hello World' so, I'll type Encode Hello World.
+
 after that, you need to input the amount of salt, in the string. (it'll instantly show the decoded version with a random salt of your input if you are not in random salt mode)
 
 ![result](https://github.com/armygogames/Custom-string-Encoder.py/assets/141536305/387f07dc-aac9-4d16-a657-906fbd885906)

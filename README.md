@@ -6,7 +6,7 @@ CONFIGURATION:
 
 Basically, lets just say you want to encode the character 'a' then this code will turn it into whatever the settings tells it to. for example, 'Hi' will be turned turn into 'Ab'.
 now, before using, you probably want to configure the encoder to make it more secure. if so, you must prepare an IDE for easier usage since it'll tell you if an error occured. (if not, you can skip to the usage part)
-or, you can go to the non-IDE route by renaming the python file to Custom string Encoder.txt then open it.
+or, you can go to the non-IDE route by renaming the Python file to Custom string Encoder.txt then open it.
 
 ![top of the code](https://github.com/armygogames/Custom-string-Encoder.py/assets/141536305/26398455-dd00-474d-b1c7-7cb736818fa5)
 
@@ -20,7 +20,7 @@ now, rename the file back to Custom string Encoder.py then open it if you aren't
 
 USAGE:
 
-after you open the code, you will be greeted by an input to put between yes or no, if you want the code to generate a random salt, you can type Y if not, type N
+after you open the code, you will be greeted by an input to put between yes or no, if you want the code to generate a random salt for you, you can type Y. if not, type N
 
 ![Input Salting Mode](https://github.com/armygogames/Custom-string-Encoder.py/assets/141536305/c3aba9d3-3abd-455c-b0d0-300d7bfb5921)
 

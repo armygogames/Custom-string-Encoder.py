@@ -1,6 +1,6 @@
 Hello, I made this cool string encoder in Python, which is like a translator to an unknown language. 
-let's just say I want to keep my passwords in a note. but as you know, whoever that uses your computer can easily read your notes. I mean you can just hide it somewhere and keep it hidden, but that's too lame. which is why I made this Custom string encoder.
-now, the reason it has "Custom" in it's name is because you can actually change the encoder settings.
+let's just say I want to keep my passwords in a note. but as you know, whoever that uses your computer can easily read your notes. I mean you can just hide it somewhere and keep it hidden, but that's too lame. which is why I made this Custom String encoder.
+now, the reason it has "Custom" in it's name is because you can actually change the Encoder settings.
 
 CONFIGURATION:
 
@@ -16,7 +16,7 @@ SUPER IMPORTANT! you must add , in the end of "a":"b" ("a":"b","c":"d","e":"f",o
 
 THIS IS ALSO SUPER IMPORTANT! you CAN'T add the symbol "!" to the encoder since it's used in the code to add salts. if added, will break the code.
 
-now, rename the file back to Custom string Encoder.py then open it.
+now, rename the file back to Custom String Encoder.py then open it.
 
 USAGE:
 

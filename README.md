@@ -1,5 +1,5 @@
 Hello, I made this cool string encoder in Python, which is like a translator to an unknown language. 
-let's just say I want to keep my passwords in a note. but as you know, whoever that uses your computer can easily read your notes. I mean you can just hide it somewhere and keep it hidden, but that's too lame. which is why I made this Custom String encoder.
+let's just say I want to keep my passwords in a note. but as you know, whoever that uses your computer can easily read your notes. I mean you can just hide it somewhere and keep it hidden, but that's too lame. which is why I made this Custom String Encoder.
 now, the reason it has "Custom" in it's name is because you can actually change the Encoder settings.
 
 CONFIGURATION:
@@ -14,7 +14,7 @@ now, you can insert anything in format of "a":"b" you can change those character
 
 SUPER IMPORTANT! you must add , in the end of "a":"b" ("a":"b","c":"d","e":"f",on and on)
 
-THIS IS ALSO SUPER IMPORTANT! you CAN'T add the symbol "!" to the encoder since it's used in the code to add salts. if added, will break the code.
+THIS IS ALSO SUPER IMPORTANT! you CAN'T add the symbol "!" to the Encoder Configuartion since it's used in the code to add salts. if added, will break the code.
 
 now, rename the file back to Custom String Encoder.py then open it.
 
@@ -45,6 +45,8 @@ And the best part is, if you decode that string, the salt will instantly be gone
 ![Final Result](https://github.com/armygogames/Custom-string-Encoder.py/assets/141536305/e2bd1e7f-af00-4386-8456-ce949f639338)
 
 as you can see we got the same input as we typed in which is Hello World.
+
+After you're done using it, type quit, or press the close button.
 
 That's it for the code, Have fun using it
 

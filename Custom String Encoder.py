@@ -100,7 +100,7 @@ while True:
 while True:
     try:a = input("Encode/Decode :")
     except EOFError:
-        print("Encoder Doesn't have some of the character in that string")
+        print("Something went wrong.")
         continue
     if a[:6].lower() == "encode" and len(split(a,' '))>=1:
         if saltR == False:

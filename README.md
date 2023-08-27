@@ -30,7 +30,7 @@ after that, type Encode if you want to Encode or type Decode if you want to Deco
 
 in this case, I want to Encode 'Hello World' so, I'll type Encode Hello World.
 
-after that, you need to input the amount of salt. (it'll instantly show the decoded version with a random salt of your typed if you are in random salt mode)
+after that, you need to input the amount of salt. (it'll instantly show the decoded version with a random salt of the string you typed if you are in random salt mode)
 
 ![result](https://github.com/armygogames/Custom-string-Encoder.py/assets/141536305/387f07dc-aac9-4d16-a657-906fbd885906)
 

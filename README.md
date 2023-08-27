@@ -28,7 +28,7 @@ In this case, I'll type N for no, and manually type in the amount of salts mysel
 
 after that, type Encode if you want to Encode or type Decode if you want to Decode followed by a space and type in any word you want to Encode or Decode.
 
-in this case, I want to Encode 'Hello World' so, I'll type Encode Hello World.
+in this case, I want to Encode 'Hello World' so, I'll type Encode Hello World. also if some character typed in are not found in the configuration dictionary, it'll ignore it and proceed with known characters.
 
 after that, you need to input the amount of salt. (it'll instantly show the decoded version with a random salt of the string you typed in if you are in random salt mode)
 
